@@ -1,0 +1,54 @@
+.navbar {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1.2rem;
+  background: var(--primary-color);
+  position: relative;
+  top: 0;
+  left: 0;
+}
+
+.navbar__logo {
+  font-size: 40px;
+  font-weight: bold;
+  color: #fff;
+}
+
+.navbar__cart {
+  width: 50px;
+  display: flex;
+}
+
+.navbar__cart:hover {
+  opacity: 0.75;
+}
+
+.cart__title {
+  font-size: 30px;
+  font-weight: bold;
+  color: var(--dark-color);
+}
+
+.cart__image {
+  width: 30px;
+  height: 30px;
+  object-fit: contain;
+}
+
+.cart__counter{
+  background-color: red;
+  border-radius: 15px;
+  color: #fff;
+  font-size: 14px;
+  font-weight: 600;
+  height: 15px;
+  position: relative;
+  top: 20px;
+  width: 15px;
+}
+.cart__counter, .navbar__cart  {
+  display: flex;
+  justify-content: center;
+}
