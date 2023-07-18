@@ -71,3 +71,21 @@ a.nav-link:hover {
 a.badge:hover {
     color: #2f64e3;
 }
+
+.icon-color {
+    color: white;
+}
+
+.icon-color:hover {
+    color: #2f64e3;
+}
+
+.icon-payment {
+    position: relative;
+    left: -10px;
+}
+
+.institucional {
+    position: relative;
+    left: -10px;
+}
