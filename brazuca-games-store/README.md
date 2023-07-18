@@ -6,12 +6,11 @@ Brazuca Games Store é um site de vendas de jogos e videogames. Este projeto foi
 
 ## 🚀 Tecnologias utilizadas:
 
-- Framework CSS Bootstrap.
+- Bootstrap: Framework CSS 
 - HTML.
 - CSS.
-- FontAwesome: A biblioteca de ícones personalizados.
+- FontAwesome: Biblioteca de ícones personalizados.
 
 ## Layout:
 
-
-
+<img src="https://github.com/rodrisoares/projetos-descomplica-institutonu/blob/main/brazuca-games-store/assets/layout/layout-brazucagamestore.gif" />
