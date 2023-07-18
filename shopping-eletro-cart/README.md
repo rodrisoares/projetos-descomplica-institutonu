@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Este projeto foi desenvolvido como parte da atividade prática do curso da Descomplica com parceria do Instituo Nu e inicialmente apresenta uma loja virtual simples. Neste projeto é possivel listar produtos, adicionar um produto no carrinho, no carrinho é possivel adicionar ou remover produtos e exibir o preço final e a quantidade de itens.
+Este projeto foi desenvolvido como parte da atividade prática do curso da Descomplica com parceria do Instituo Nu e inicialmente apresenta uma loja virtual simples. Neste projeto é possivel listar produtos, visualizar um produto, adicionar um produto no carrinho, no carrinho é possivel adicionar ou remover produtos e exibir o preço final e a quantidade de itens.
 
 ## 🚀 Tecnologias utilizadas:
 
@@ -14,8 +14,7 @@ Este projeto foi desenvolvido como parte da atividade prática do curso da Desco
 
 ## Layout:
 
-
-
+<img src="https://github.com/rodrisoares/projetos-descomplica-institutonu/blob/main/shopping-eletro-cart/public/assets/images/layout/shoppingeletrocart.gif" />
 
 ## Rodando a aplicação:
 ```
